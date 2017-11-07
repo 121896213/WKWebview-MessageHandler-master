@@ -12,5 +12,6 @@
 
 
 @property(strong  ,nonatomic) NSString* str;
+@property(strong  ,nonatomic) NSString* str2;
 @end
 
